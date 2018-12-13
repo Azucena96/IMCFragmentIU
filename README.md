@@ -1,0 +1,1 @@
+#Aplicacion que calcula el INDICE DE MASA CORPORAL. UTILIZA FRAGMENTOS DE IU.
